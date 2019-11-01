@@ -12,7 +12,7 @@ Helpful Swift 5 code snippets to use in all your Xcode projects.
 *If the folder doesn't exists create it.
 
 ## Code Snippets
- 
+
 ```
 snippetViewDidLoad              viewDidLoad for UIViewController
 snippetViewDidAppear            viewDidAppear for UIViewController
@@ -25,6 +25,7 @@ snippetAlert                    Present alert or action sheet with two default a
 snippetMark                     Simple MARK with a placeholder to complete
 snippetMarksUIViewController    MARKs for UIViewController
 snippetMarksModel               MARKs for models
+snippetSingleton                Generic singleton class
 ```
 
 ---
