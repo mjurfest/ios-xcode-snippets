@@ -21,7 +21,7 @@ present(alertController, animated: true)</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string></string>
+	<string>Creates an alert controller with two actions</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>UIAlertController</string>
 	<key>IDECodeSnippetUserSnippet</key>

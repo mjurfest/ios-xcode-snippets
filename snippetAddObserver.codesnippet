@@ -15,7 +15,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string></string>
+	<string>Creates an observer with selector, NSNotification.Name and object</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Add observer</string>
 	<key>IDECodeSnippetUserSnippet</key>
