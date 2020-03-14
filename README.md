@@ -14,18 +14,18 @@ Helpful Swift 5 code snippets to use in all your Xcode projects.
 ## Code Snippets
 
 ```
-snippetViewDidLoad              viewDidLoad for UIViewController
-snippetViewDidAppear            viewDidAppear for UIViewController
-snippetViewDidDisappear         viewDidDisappear for UIViewController
-snippetViewWillAppear           viewWillAppear for UIViewController
-snippetViewWillDisappear        viewWillDisappear for UIViewController
 snippetAddObserver              Add observer
-snippetPostObserver             Post observer
 snippetAlert                    Present alert or action sheet with two default actions
 snippetMark                     Simple MARK with a placeholder to complete
-snippetMarksUIViewController    MARKs for UIViewController
 snippetMarksModel               MARKs for models
+snippetMarksUIViewController    MARKs for UIViewController
+snippetPostObserver             Post observer
 snippetSingleton                Generic singleton class
+snippetViewDidAppear            viewDidAppear for UIViewController
+snippetViewDidDisappear         viewDidDisappear for UIViewController
+snippetViewDidLoad              viewDidLoad for UIViewController
+snippetViewWillAppear           viewWillAppear for UIViewController
+snippetViewWillDisappear        viewWillDisappear for UIViewController
 ```
 
 ---
