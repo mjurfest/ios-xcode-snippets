@@ -16,9 +16,9 @@ Helpful Swift 5 code snippets to use in all your Xcode projects.
 ```
 snippetViewDidLoad              viewDidLoad for UIViewController
 snippetViewDidAppear            viewDidAppear for UIViewController
-snippetViewDidDissappear        viewDidDissapear for UIViewController
+snippetViewDidDisappear         viewDidDisappear for UIViewController
 snippetViewWillAppear           viewWillAppear for UIViewController
-snippetViewWillDissappear       viewWillDissappear for UIViewController
+snippetViewWillDisappear        viewWillDisappear for UIViewController
 snippetAddObserver              Add observer
 snippetPostObserver             Post observer
 snippetAlert                    Present alert or action sheet with two default actions
