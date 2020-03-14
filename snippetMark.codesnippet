@@ -15,7 +15,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string></string>
+	<string>Add a MARK with a placeholder name</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>MARK</string>
 	<key>IDECodeSnippetUserSnippet</key>

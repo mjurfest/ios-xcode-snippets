@@ -19,7 +19,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string></string>
+	<string>MARKs to use in your model or entity</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Model MARKs</string>
 	<key>IDECodeSnippetUserSnippet</key>

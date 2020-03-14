@@ -32,7 +32,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string></string>
+	<string>MARKs to use in your UIViewController</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>UIViewController MARKs</string>
 	<key>IDECodeSnippetUserSnippet</key>
