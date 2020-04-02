@@ -10,8 +10,8 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>override func viewDidDisappear(_ animated: Bool) {
-    super.viewDidDisappear(animated)
-  }</string>
+  super.viewDidDisappear(animated)
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F207F44C-10DF-4827-96FC-47D4A70D147A</string>
 	<key>IDECodeSnippetLanguage</key>
