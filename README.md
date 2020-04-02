@@ -23,6 +23,7 @@ snippetMarksModel               MARKs for models
 snippetMarksUIViewController    MARKs for UIViewController
 snippetPostObserver             Post observer
 snippetSingleton                Generic singleton class
+snippetUserDefaultsVariable     Add a variable of any Type to UserDefaults
 snippetViewDidAppear            viewDidAppear for UIViewController
 snippetViewDidDisappear         viewDidDisappear for UIViewController
 snippetViewDidLoad              viewDidLoad for UIViewController

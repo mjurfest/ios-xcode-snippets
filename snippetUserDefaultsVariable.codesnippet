@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>snippetUserDefaultsVariable</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>var &lt;#name#&gt;: &lt;#Type#&gt; {
+  get {
+    return &lt;#method#&gt;(forKey: #function)
+  }
+  set {
+    set(newValue, forKey: #function)
+  }
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>A1519E53-062C-4761-A37B-808C752046C1</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Add a variable of any Type to UserDefaults</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>snippetUserDefaultsVariable</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
