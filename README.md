@@ -2,6 +2,11 @@
 
 Helpful Swift 5 code snippets to use in all your Xcode projects.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/swift-5.2-orange"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow"/>
+</p>
+
 ## How to use?
 1. Open Finder and type `cmd + shift + G`
 2. Paste ~/Library/Developer/Xcode/UserData/CodeSnippets/ and press "Go" button
