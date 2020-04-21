@@ -16,7 +16,7 @@ Helpful Swift 5 code snippets to use in all your Xcode projects.
 
 *If the folder doesn't exists create it.
 
-![](demo.gif)
+![](Assets/demo.gif)
 
 ## Code Snippets
 
